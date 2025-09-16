@@ -8,7 +8,7 @@ export default function Screen2() {
         <View style={styles.container}>
             <Text style={styles.title}>Mapa de eventos</Text>
             <View style={styles.mapPlaceholder}>
-                <Text style={styles.mapText}>[Aquí irá Inicio]</Text>
+                <Text style={styles.mapText}>[Aquí irá el mapa]</Text>
             </View>
             <Button title='Volver al inicio' onPress={() => router.push("/")} />
         </View>
