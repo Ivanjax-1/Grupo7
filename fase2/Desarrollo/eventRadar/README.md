@@ -11,18 +11,18 @@ Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](http
 
 
 
-Iniciar la aplicación
+2. **Iniciar la aplicación**
 
-npx expo start
+```npx expo start
 
 
-Al ejecutar este comando, en la terminal aparecerán opciones para abrir la app en:
+3. **Al ejecutar este comando, en la terminal aparecerán opciones para abrir la app en**
 
-Development build
+   - Development build
 
-Emulador de Android
+   - Emulador de Android
 
-Simulador de iOS
+   - Simulador de iOS
 
 Expo Go
 , un entorno limitado para probar apps Expo.
