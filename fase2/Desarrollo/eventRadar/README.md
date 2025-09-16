@@ -11,13 +11,16 @@ Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](http
 
 ...
 
-## 2. **Iniciar la aplicación**
+## 
+2. **Iniciar la aplicación**
 
 ```bash
 npx expo start
 
 ...
-## 3. **Al ejecutar este comando, en la terminal aparecerán opciones para abrir la app en**
+##
+
+3. **Al ejecutar este comando, en la terminal aparecerán opciones para abrir la app en**
 
    - Development build
 
