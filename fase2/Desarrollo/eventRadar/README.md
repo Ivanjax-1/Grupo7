@@ -11,7 +11,7 @@ Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](http
 
 
 
-###2. **Iniciar la aplicación**
+### 2. **Iniciar la aplicación**
 
 ```bash
 npx expo start
