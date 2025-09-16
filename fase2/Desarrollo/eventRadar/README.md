@@ -9,14 +9,14 @@ Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](http
    ```bash
    npm install
 
-
+...
 
 ## 2. **Iniciar la aplicación**
 
 ```bash
 npx expo start
 
-
+...
 ## 3. **Al ejecutar este comando, en la terminal aparecerán opciones para abrir la app en**
 
    - Development build
@@ -24,7 +24,7 @@ npx expo start
    - Emulador de Android
 
    - Simulador de iOS
-
+...
 Expo Go
 , un entorno limitado para probar apps Expo.
 
