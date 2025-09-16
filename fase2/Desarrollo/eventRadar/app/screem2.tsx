@@ -10,7 +10,7 @@ export default function Screen2() {
             <View style={styles.mapPlaceholder}>
                 <Text style={styles.mapText}>[Aquí irá Inicio]</Text>
             </View>
-            <Button title='Ir a pantalla Mapa' onPress={()=>router.push("/screem2")}></Button>
+            <Button title='Volver al inicio' onPress={() => router.push("/")} />
         </View>
     );
 }
