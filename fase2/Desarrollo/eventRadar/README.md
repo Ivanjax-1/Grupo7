@@ -1,14 +1,14 @@
-Bienvenido a tu aplicación Expo 👋
+# EventRadar 🎯
 
-Este es un proyecto Expo
- creado con create-expo-app
-.
+Este es un proyecto [Expo](https://expo.dev) creado con [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-Primeros pasos
+## 🚀 Primeros pasos
 
-Instalar dependencias
+1. **Instalar dependencias**
 
-npm install
+   ```bash
+   npm install
+
 
 
 Iniciar la aplicación
