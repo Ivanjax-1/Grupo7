@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { View, Text, Button, ActivityIndicator, Alert } from 'react-native';
 import MapView, { Marker, PROVIDER_GOOGLE } from 'react-native-maps';
 import * as Location from 'expo-location';
-import styles from './styles/screem2.styles';
+import styles from '../src/hooks/screem2.styles';
 
 const MOCK_EVENTS = [
   { id: '1', title: 'Feria Cultural', lat: -33.4489, lng: -70.6693, desc: 'Plaza de Armas' },
