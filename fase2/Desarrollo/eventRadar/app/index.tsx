@@ -1,6 +1,6 @@
 import { useRouter } from 'expo-router';
 import { View, Text, Button } from 'react-native';
-import styles from './styles/index.styles';
+import styles from '../src/hooks/index.styles';
 
 export default function IndexScreen() {
   const router = useRouter();

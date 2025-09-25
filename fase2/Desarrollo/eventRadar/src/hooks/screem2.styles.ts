@@ -13,19 +13,13 @@ const styles = StyleSheet.create({
     marginBottom: 30,
     color: '#222',
   },
-  mapPlaceholder: {
+  map: {
     width: 320,
     height: 400,
-    backgroundColor: '#d0e6fa',
-    justifyContent: 'center',
-    alignItems: 'center',
     borderRadius: 16,
     borderWidth: 2,
     borderColor: '#90caf9',
-  },
-  mapText: {
-    color: '#555',
-    fontSize: 18,
+    overflow: 'hidden',
   },
 });
 
