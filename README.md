@@ -25,7 +25,7 @@ Permite a los usuarios descubrir actividades culturales, recreativas y educativa
 
 ## 👥 Equipo
 - **Alejandro Troncoso Vicuña**  
-- **Diego** 
+- **Diego Valenzuela** 
 - **Iván** 
 
 ---
